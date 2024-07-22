@@ -1,0 +1,19 @@
+    body {
+      font-family: "Times New Roman", serif;
+      background-color: black;
+      color: white;
+      margin: 10px;
+      padding: 10px;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+    main {
+      text-align: left;
+      padding: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+    }
